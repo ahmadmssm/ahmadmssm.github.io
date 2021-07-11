@@ -1,0 +1,73 @@
+# section information
+section:
+  name: Work Experience
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/experiences.html
+  
+# Your experiences
+experiences:
+- company:
+    name: Robusta Studio
+    url: "https://robustastudio.com/"
+    location: 5th Settlement
+    overview: A software tech agency located in Egypt and serving in multiple Europian countries, with 350+ Projects, 150+ Clients and 10+ Industries including E-commers, transportaion, ERP and more.
+  positions:
+  - designation: Experienced native iOS Engineer, native Android Engineer.
+    start: Jan 2018
+    responsibilities:
+    - Develop and maintain native Android and iOS apps.
+    - Enforcing best practices.
+    - Conduct technical interviews and evaluate candidates.
+    - Evaluate technical tasks.
+    - Help Senior and mid-level Engineers to overcome technical challenges.
+    - Mentoring mid-level and junior developers.
+    - Putting architecture of new and existing mobile Apps.
+    - Acting as a solution architect, Designing the overall system of some Apps (Including frontend, backend, and mobile).
+    - Design the CI/CD pipeline for mobile Apps.
+
+- company:
+    name: Swenson He
+    url: "https://swensonhe.com/"
+    location: Beverly Hills, California, Unites States
+    overview: A Firm founded in 2014 to became on of the best software houses in California.
+  positions:
+  - designation: Experienced native mobile Apps engineer (Part time)
+    start: Feb 2021
+    end: April 2021
+    responsibilities:
+    - Develop and maintain native Android and iOS apps.
+    - Refactor parts of codes that were developed by different companies then handed over to our team by the owner.
+
+- company:
+    name: OLX Egypt/OLX MENA
+    url: "https://www.olx.com.eg"
+    location: Egypt
+    overview: Well-known B2B E-Commerce based product with more than 4.7 Million users base located in the middle east and formerly a part of [OLX Global group](https://www.olx.com/) and now part of [EMPG](https://www.empg.com/).
+  positions:
+  - designation: Senior mobile Apps Engineer
+    start: Feb 2020
+    end: Feb 2021
+    responsibilities:
+    - Maintaining and adding new features to a project with more than 4.7M user base.
+    - Implemented new features that will change how the user uses the App during the COVID-19 pandemic.
+    - Making sure that the new features will not affect the existing ones.
+    - Refactor some parts of the code with issues. such as memory leaks.
+    - Refactor UI parts to solve user experience problems.
+    - Maintain Apps stability.
+    
+- company:
+    name: Mivors Consulting
+    location: Maadi, Egypt
+    overview: Platinum [Oracle](https://www.oracle.com/index.html) partner ERP system development company.
+  positions:
+  - designation: Android and iOS Developer
+    start: Dec 2014
+    end: Jan 2018
+    responsibilities:
+    - Develop and maintain native Android and iOS apps.
+    - Develop and maintain cross-platform Android and iOS apps.
+    - Integrate with Oracle cloud services such as [Oracle service cloud (RightNow CX)](https://www.oracle.com/cx/service/rightnow/) and [Sales cloud](https://www.oracle.com/cx/sales/) to deliver a great user experience through mobile Apps.
+    - Client-server communications using HTTP/HTTPS protocols and APIs like SOAP & REST.

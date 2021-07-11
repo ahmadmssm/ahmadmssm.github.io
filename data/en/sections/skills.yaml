@@ -1,0 +1,49 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Android Development
+  logo: "/images/sections/skills/android.png"
+  summary: "Developed Android apps for different sectors like Ecommerce, Navigation, Cars renting and ERP systems.  \n**Keywords:**\n1. Activity/Fragment lifecycle.\n2. Services.\n3. Broadcast receivers.\n4. DI (Koin - Hilt).\n5. RxJava/Android.\n6. Android architecture components.\n7. Jetpack components.\n8. OkHttp.\n9. Retrofit\n10. Image loading (Glide  - Coil).\n11. Gradle (Groovy - Kotlin DSL).\n12. Reflection.\n13. Huawei Mobile Services (HMS)."
+  #url: "https://www.android.com/"
+
+- name: iOS Development
+  logo: "/images/sections/skills/iOS.webp"
+  summary: "Developed iOS apps for different sectors like Ecommerce, Navigation, Cars renting and ERP systems  \n**Keywords:**. \n1. Apple push notification (APN).\n2. Alamofire.\n3. Dependency injection.\n4. Apple Maps.\n5. Sign In with Apple.\n6. Swizzling.\n7. RxSwift."
+  #url: "https://developer.apple.com/ios/"
+  
+- name: Common Android and iOS skills
+  summary: "1. JSON​ and SOAP.\n2. Integration with third party SDKs such as **Firebase**, **Facebook**, etc..\n3. Single sign on with social media (SSO).\n4. Google Maps.\n5. In app Localization.\n6. In-app real time chat.\n7. Offline data caching.\n8. Push Notifications.\n9. Barcode/QR code scanning.\n10. Biometric authentication.\n11. Analytics.\n12. Read/Write from/to disk. \n13. Firebase distribution.\n14. Payment Gateway integration.\n15. Generics.\n16. Realm. \n17. Firebase services. \n18. Unit testing."
+
+- name: Swift
+  logo: "/images/sections/skills/swift.png"
+  summary: "Using Swift as the main language for iOS development."
+  url: "https://developer.apple.com/swift/"
+
+- name: Kotlin
+  logo: "images/sections/skills/kotlin.png"
+  summary: "Using Kotlin as the main language for Android development."
+  url: "https://kotlinlang.org/"
+  
+- name: Java
+  logo: "images/sections/skills/java.png"
+  summary: "Using Java as the secondary language for Android development."
+  url: "https://www.oracle.com/java/"
+
+- name: Git
+  summary: "Using version control systems (GitHub, GitLab, etc..) and applying different best practices based on the nature of the project developments and the team."
+  
+- name: CI/CD
+  summary: "Designed and built continuous integration and continuous delivery pipeline for different mobile Apps using technologies. \n**Keywords:**\n1. GitLab CI.\n2. Fastlane.\n3. Firebase distribution."
+
+- name: Design patterns
+  summary: "Architectural Patterns:  \n`MVC` - `MVP` - `MVVM` - `MVI/Redux`.  \n Structural Patterns:  \n `Adapter` - `Decorator` - `Proxy`.  \n Behavioral Patterns:  \n`Strategy` - `Observer` - `State`.  \nCreational Patterns:  \n`Factory` - `Builder` - `Singleton`."

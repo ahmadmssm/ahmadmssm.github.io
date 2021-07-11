@@ -1,0 +1,46 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Experienced mobile Apps Engineer (Android and iOS)
+# your company information
+company:
+  name: Robusta Studio.
+  url: "https://robustastudio.com/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Ahmad Mahmoud Resume.pdf"
+
+# a summary about you
+summary: 'An experienced native **Android** and **iOS** and mobile automation Engineer with **7+ years** of experience. I develop mobile apps and open-source mobile projects and I love automation.'
+
+socialLinks:
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/amssm/"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/ahmadmssm"
+- name: Medium
+  icon: "fab fa-medium"
+  url: "https://amssm.medium.com"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Interviews
+  percentage: 90
+  color: green
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Mentoring
+  percentage: 90
+  color: yellow

@@ -1,0 +1,13 @@
+# section information
+section:
+  name: What they said about me
+  id: achievements
+  enable: false
+  weight: 6
+  showOnNavbar: true
+  
+# Your achievements achievements
+achievements:
+- title: Title
+  # image: /images/sections/achievements/image.png
+  summary: Summary.
