@@ -3,7 +3,7 @@ section:
   name: What they said about me
   id: achievements
   enable: false
-  weight: 6
+  weight: 7
   showOnNavbar: true
   
 # Your achievements achievements
