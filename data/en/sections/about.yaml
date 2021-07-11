@@ -21,6 +21,12 @@ resume: "files/Ahmad Mahmoud Resume.pdf"
 summary: 'An experienced native **Android** and **iOS** and mobile automation Engineer with **7+ years** of experience. I develop mobile apps and open-source mobile projects and I love automation.'
 
 socialLinks:
+- name: Gmail
+  icon: "fab fa-google"
+  url: "mailto:amssm.eng@email.com"
+- name: Hotmail
+  icon: "fas fa-envelope"
+  url: "mailto:ams.eng@hotmail.com"
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/amssm/"
@@ -30,6 +36,9 @@ socialLinks:
 - name: Medium
   icon: "fab fa-medium"
   url: "https://amssm.medium.com"
+- name: PlayStore
+  icon: "fab fa-google-play"
+  url: "https://play.google.com/store/apps/dev?id=8699826524080018056"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
