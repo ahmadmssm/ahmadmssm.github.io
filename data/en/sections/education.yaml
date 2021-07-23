@@ -1,0 +1,22 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  
+degrees:
+- name: B.Sc. in Electrical and computer Engineering.
+  icon: fa-graduation-cap
+  timeframe: 2008 - 2013
+  institution:
+    name: Higher technological institute of Engineering (H.T.I)
+    url: "http://www.hti.edu.eg/default.aspx"
+ 
+- name: Secondary School Certificate
+  icon: fa-school
+  timeframe: 2000 - 2008
+  institution:
+    name: Helmia Language School.
