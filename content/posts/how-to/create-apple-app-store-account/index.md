@@ -1,5 +1,5 @@
 ---
-title: "Create Google Play Store Account"
+title: "Create Apple App Store Account"
 date: "2021-07-24T00:00:23+02:00"
 author:
   name: Ahmad Mahmoud
@@ -7,12 +7,11 @@ author:
 theme: Toha
 menu:
   sidebar:
-    name: Create Google Play Store Account
+    name: Create Apple App Store Account
     parent:  how-to
-    identifier: create-google-play-store-account
-    weight: 500
+    identifier: create-apple-app-store-account
+    weight: 100
 ---
 
 ### Complete Post Coming Soon...
 
-![Visitor Count](https://profile-counter.glitch.me/ahmadmssm/count.svg)

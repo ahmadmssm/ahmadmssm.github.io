@@ -3,6 +3,11 @@ languageCode: en-us
 title: "Ahmad Mahmoud Saleh's Space"
 theme: "toha"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  
 outputs:
   home:
   - HTML
