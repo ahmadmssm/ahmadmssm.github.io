@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 5
+  weight: 4
   template: sections/projects.html
   showOnNavbar: true
 
