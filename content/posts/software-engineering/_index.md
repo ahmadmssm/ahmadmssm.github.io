@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: Software engineering
     identifier: software-engineering
-    weight: 100
+    weight: 200
 ---

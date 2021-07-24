@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: iOS
     identifier: iOS
-    weight: 300
+    weight: 400
 ---

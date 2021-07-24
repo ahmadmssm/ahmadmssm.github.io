@@ -16,4 +16,3 @@ menu:
 
 ### Complete Post Coming Soon...
 
-![review](assets/review.png)
