@@ -16,12 +16,7 @@ menu:
 ### Complete Post Coming Soon...
 
 
-
-![](https://komarev.com/ghpvc/?username=ahmadmssm&color=blue)
-
-
 <h5  align="center"> You are the visitor number</h1>
-
 <p align="center">
 </p>
 <p align="center">
