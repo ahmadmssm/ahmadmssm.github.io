@@ -10,6 +10,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: Teavaro Inc.
+    url: "https://www.teavaro.com/"
+    location: London, UK
+    overview: Teavaro truly connects people, brands and media owners across any media and device, helping you deliver a personalised marketing experience that drives conversion and reduces media wastage.
+  positions:
+  - designation: Senior native iOS and Android SDK/Apps Engineer.
+    start: Jan 2022
+    responsibilities:
+    - Develop and maintain native Android and iOS SDKs.
+    - Enforcing best practices.
+    - Help Senior and mid-level Engineers to overcome technical challenges.
+    - Putting architecture of new and existing mobile SDKs.
+    - Acting as a solution architect, Designing the overall system of some Apps (Including frontend, backend, and mobile).
+    - Design the CI/CD pipeline for mobile SDks.
+    
+- company:
     name: Robusta Studio
     url: "https://robustastudio.com/"
     location: 5th Settlement, Cairo, Egypt
@@ -17,6 +33,7 @@ experiences:
   positions:
   - designation: Senior native iOS and Android Apps Engineer.
     start: Jan 2018
+    end: Jan 2022
     responsibilities:
     - Develop and maintain native Android and iOS apps.
     - Enforcing best practices.
@@ -71,3 +88,4 @@ experiences:
     - Develop and maintain cross-platform Android and iOS apps.
     - Integrate with Oracle cloud services such as [Oracle service cloud (RightNow CX)](https://www.oracle.com/cx/service/rightnow/) and [Sales cloud](https://www.oracle.com/cx/sales/) to deliver a great user experience through mobile Apps.
     - Client-server communications using HTTP/HTTPS protocols and APIs like SOAP & REST.
+    
