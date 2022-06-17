@@ -13,16 +13,63 @@ section:
 skills:
 - name: Android Development
   logo: "/images/sections/skills/android.png"
-  summary: "Developed Android apps for different sectors like Ecommerce, Navigation, Cars renting and ERP systems.  \n**Keywords:**\n1. Activity/Fragment lifecycle.\n2. Services.\n3. Broadcast receivers.\n4. DI (Koin - Hilt).\n5. RxJava/Android.\n6. Android architecture components.\n7. Jetpack components.\n8. OkHttp.\n9. Retrofit\n10. Image loading (Glide  - Coil). \n11. Gradle (Groovy - Kotlin DSL).\n12. Reflection.\n13. Huawei Mobile Services (HMS). \n14. Google Play Store deployment. \n15. Huawei Store deployment"
+  summary: "Developed Android apps for different sectors like Ecommerce, Navigation, Cars renting and ERP systems.  \n**Keywords:**
+  \n1. Activity/Fragment lifecycle.
+  \n2. Services.
+  \n3. Broadcast receivers.
+  \n4. Remote views and Widgets.
+  \n5. Offline data caching (SharedPreference, SQLite DB with Room, Realm, Memory caching, File caching).
+  \n6. Read/Write from/to internal/external storage.
+  \n7. Build variants and product flavors.
+  \n8. SMS verification.
+  \n9. Dependency injection (Koin - Hilt).
+  \n10. RxJava/RxAndroid.
+  \n11.	Generics and Reflection.
+  \n12. Architecture components.
+  \n13. Jetpack components.
+  \n14. Networking (OkHttp, Retrofit).
+  \n15. Image loading (Glide  - Coil).
+  \n16. Gradle (Groovy - Kotlin DSL).
+  \n17. Google Play Store deployment. 
+  \n18. Huawei Mobile Services (HMS).
+  \n19. Huawei Store deployment.
+  \n20. Unit testing."
   #url: "https://www.android.com/"
 
 - name: iOS Development
   logo: "/images/sections/skills/iOS.png"
-  summary: "Developed iOS apps for different sectors like Ecommerce, Navigation, Cars renting and ERP systems  \n**Keywords:**. \n1. Apple push notification (APN).\n2. Alamofire.\n3. Dependency injection.\n4. Apple Maps.\n5. Sign In with Apple.\n6. Swizzling.\n7. RxSwift.\n8. Apple's App Store deployment."
+  summary: "Developed iOS apps for different sectors like Ecommerce, Navigation, Cars renting and ERP systems  \n**Keywords:**. 
+  \n1. Apple push notification (APN).
+  \n2. Alamofire.
+  \n3. Offline data caching (UserDefaults, CoreData, Realm, Files).
+  \n4. Read/Write from/to storage.\n5. Dependency injection.
+  \n6. Apple Maps.
+  \n7. Sign In with Apple.
+  \n8. Swizzling.
+  \n9. RxSwift.
+  \n10. Apple's App Store deployment.
+  \n11.	Core ML (Machine learning)."
   #url: "https://developer.apple.com/ios/"
   
 - name: Common Android and iOS skills
-  summary: "1. JSON​ and SOAP.\n2. Integration with third party SDKs such as **Firebase**, **Facebook**, etc..\n3. Single sign on with social media (SSO).\n4. Google Maps.\n5. In app Localization.\n6. In-app real time chat.\n7. Offline data caching.\n8. Push Notifications.\n9. Barcode/QR code scanning.\n10. Biometric authentication.\n11. Analytics.\n12. Read/Write from/to disk. \n13. Firebase distribution.\n14. Payment Gateway integration.\n15. Generics.\n16. Realm. \n17. Firebase services. \n18. Unit testing."
+  summary: "1. REST​ and SOAP.
+  \n2. Integration with third party SDKs such as **Firebase**, **Facebook**, etc..
+  \n3. Single sign on with social media (SSO).
+  \n4. Google Maps.
+  \n5. In app Localization.
+  \n6. In-app real time chat.
+  \n7. Offline data caching.
+  \n8. Push Notifications.
+  \n9. Barcode/QR code scanning.
+  \n10. Biometric authentication.
+  \n11. Analytics.
+  \n12. Read/Write from/to disk. 
+  \n13. Firebase distribution.
+  \n14. Payment Gateways integration (Amazon payer formerly Payfort, Stripe,…).
+  \n15. Generics.
+  \n16. Realm.
+  \n17. Firebase services.
+  \n18. Unit testing."
 
 - name: Swift
   logo: "/images/sections/skills/swift.png"
@@ -31,7 +78,7 @@ skills:
 
 - name: Kotlin
   logo: "images/sections/skills/kotlin.png"
-  summary: "Using Kotlin as the main language for Android development."
+  summary: " 1- Android development main language.  \n 2. **Kotlin Multiplatform Mobile (KMM).**"
   url: "https://kotlinlang.org/"
   
 - name: Java
@@ -47,3 +94,4 @@ skills:
 
 - name: Design patterns
   summary: "Architectural Patterns:  \n`MVC` - `MVP` - `MVVM` - `MVI/Redux`.  \n Structural Patterns:  \n `Adapter` - `Decorator` - `Proxy` - `Facade`.  \n Behavioral Patterns:  \n`Strategy` - `Observer` - `State`.  \nCreational Patterns:  \n`Factory` - `Builder` - `Singleton`."
+  
