@@ -45,3 +45,16 @@ params:
       enabled: true
       goatCounter:
         code: amssm
+    comment:
+      enable: true
+      giscus:
+      repo: ahmadmssm/ahmadmssm.github.io
+      repoID: MDEwOlJlcG9zaXRvcnkzNzIxMDU2Njc=
+      category: General
+      categoryID: DIC_kwDOFi3hw84CPvD5
+      # theme: light
+      # map: url
+      # reaction: 1
+      # metadata: 0
+      # inputPosition: bottom
+      # crossOrigin: anonymous

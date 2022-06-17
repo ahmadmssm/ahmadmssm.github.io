@@ -47,15 +47,21 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Management
+- name: Team Management
   percentage: 85
   color: green
-- name: Leadership
+- name: Engineering Mngr.
+  percentage: 70
+  color: orange
+- name: Project tech lead
   percentage: 85
+  color: green
+- name: Agile
+  percentage: 90
   color: blue
-- name: Mentoring
+- name: Leadership
   percentage: 90
-  color: yellow
-- name: Interviews
+  color: blue
+- name: Mentorship
   percentage: 90
-  color: green
+  color: sky
