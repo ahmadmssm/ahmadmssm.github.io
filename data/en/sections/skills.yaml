@@ -78,7 +78,7 @@ skills:
 
 - name: Kotlin
   logo: "images/sections/skills/kotlin.png"
-  summary: " 1- Android development main language.  \n 2. **Kotlin Multiplatform Mobile (KMM).**"
+  summary: " 1- Android development main language.  \n 2. **Kotlin Multiplatform (KMP).**"
   url: "https://kotlinlang.org/"
   
 - name: Java
