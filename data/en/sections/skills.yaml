@@ -90,7 +90,7 @@ skills:
   summary: "Using version control systems (GitHub, GitLab, etc..) and applying different best practices based on the nature of the project developments and the team."
   
 - name: CI/CD
-  summary: "Designed and built continuous integration and continuous delivery pipeline for different mobile Apps using technologies. \n**Keywords:**\n1. GitLab CI.\n2. Fastlane.\n3. Firebase distribution."
+  summary: "Designed and built continuous integration and continuous delivery pipeline for different mobile Apps using technologies. \n**Keywords:**\n1. GitHub Actions.\n2. GitLab CI.\n3. Fastlane.\n4. Firebase distribution."
 
 - name: Design patterns
   summary: "Architectural Patterns:  \n`MVC` - `MVP` - `MVVM` - `MVI/Redux`.  \n Structural Patterns:  \n `Adapter` - `Decorator` - `Proxy` - `Facade`.  \n Behavioral Patterns:  \n`Strategy` - `Observer` - `State`.  \nCreational Patterns:  \n`Factory` - `Builder` - `Singleton`."
